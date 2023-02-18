@@ -1,0 +1,230 @@
+.p-Home.Flex7 {
+display: flex;
+background-color: transparent;
+justify-content: space-between;
+margin-top: ;
+padding-top: 20px;
+margin-bottom: ;
+padding-bottom: 20px;
+padding-left: 90px;
+padding-right: 90px;
+}
+.p-Home.Flex8 {
+display: flex;
+background-color: transparent;
+}
+.p-Home.Flex12 {
+display: flex;
+background-color: transparent;
+align-items: center;
+margin-top: ;
+margin-left: 5px;
+}
+.p-Home.Flex9 {
+display: flex;
+background-color: transparent;
+}
+.p-Home.Flex13 {
+display: flex;
+background-color: transparent;
+justify-content: space-between;
+}
+.p-Home.Flex14 {
+display: flex;
+background-color: transparent;
+width: 40%;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+padding-left: 80px;
+padding-right: ;
+margin-left: 50px;
+}
+.p-Home.Flex17 {
+display: flex;
+}
+.p-Home.Flex15 {
+display: flex;
+background-color: transparent;
+width: 3rem;
+align-items: flex-start;
+height: 35rem;
+position: relative;
+justify-content: center;
+align-content: center;
+}
+.p-Home.Flex16 {
+display: flex;
+align-items: center;
+justify-content: flex-end;
+background-color: #FF7629;
+flex-direction: row;
+align-content: stretch;
+position: absolute;
+right: 0;
+width: 35rem;
+height: 35rem;
+flex-shrink: 0;
+align-self: flex-end;
+}
+.p-Home.Image5 {
+width: 15rem;
+background-color: transparent;
+}
+.p-Home.TextBox8 {
+margin-left: 10px;
+margin-right: 20px;
+font-size: 20px;
+color: #696969;
+}
+.p-Home.TextBox9 {
+margin-left: 20px;
+margin-right: 20px;
+margin-top: ;
+margin-bottom: ;
+width: ;
+font-size: 20px;
+color: #696969;
+}
+.p-Home.TextBox10 {
+margin-left: 10px;
+margin-right: 20px;
+font-size: 20px;
+color: #696969;
+}
+.p-Home.TextBox11 {
+margin-left: 10px;
+margin-right: 20px;
+font-size: 20px;
+color: #696969;
+}
+.p-Home.TextBox12 {
+margin-left: 10px;
+margin-right: 20px;
+font-size: 20px;
+color: #696969;
+}
+.p-Home.Button3 {
+color: #ffffff;
+background-color: #FF7629ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: ;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+margin-left: 10px;
+margin-right: 10px;
+border-top-left-radius: 50px;
+border-bottom-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-right-radius: 50px;
+}
+.p-Home.Button4 {
+color: #000000;
+background-color: #ffffffff;
+padding-top: 10px;
+padding-left: 15px;
+padding-bottom: 10px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: ;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ccccccff;
+cursor: pointer;
+user-select: none;
+border-left-width: ;
+border-left-color: transparent;
+box-sizing: content-box;
+border-top-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+margin-left: 10px;
+margin-right: 10px;
+}
+.p-Home.TextBox13 {
+font-size: 1.5rem;
+width: 25rem;
+color: #8f8b8b;
+}
+.p-Home.TextBox14 {
+width: ;
+font-size: 4rem;
+}
+.p-Home.TextBox16 {
+font-size: 4rem;
+color: #FF7629;
+}
+.p-Home.Button8 {
+color: ;
+background-color: transparent;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+margin-top: 20px;
+border-top-left-radius: 50px;
+border-bottom-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-right-radius: 50px;
+}
+.p-Home.Button9 {
+color: #fff;
+background-color: #FF7629;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+margin-right: 60px;
+margin-top: 20px;
+border-top-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+}
+.p-Home.Image7 {
+position: relative;
+right: 350px;
+width: 25rem;
+height: 25rem;
+border-radius: ;
+border-left-width: 50px;
+border-left-color: transparent;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
